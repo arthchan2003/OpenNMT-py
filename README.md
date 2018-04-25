@@ -28,6 +28,11 @@ Table of Contents
 pip install -r requirements.txt
 ```
 
+You might also need to install torch and torchtext
+```bash
+pip install torch torchtext
+```
+
 
 ## Features
 
